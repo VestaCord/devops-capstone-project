@@ -2,7 +2,7 @@
 name: user story
 about: user stories for sprint planning
 labels: technical debt
-assignees: '@VestaCord'
+assignees: 'VestaCord'
 
 ---
 
