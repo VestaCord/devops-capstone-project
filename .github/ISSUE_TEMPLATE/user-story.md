@@ -1,3 +1,11 @@
+---
+name: user story
+about: user stories for sprint planning
+labels: technical debt
+assignees: '@VestaCord'
+
+---
+
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
